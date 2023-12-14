@@ -18,4 +18,4 @@ tutorial:
       type: good #string [literal]
       born: 1996 #number [literal]
 author: omkarbirade
-published: false
+published: true
